@@ -4,7 +4,6 @@ class ComponenteLista extends React.Component {
     render () {
         return (
             <div className="card">
-            <h1>Hello Dojo!</h1>
             <h2>Thinds I need to do:</h2>
             <ul>
                 <li>Learn React</li>
